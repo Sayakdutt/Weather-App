@@ -1,6 +1,6 @@
 # Weather App
 
-
+<img src="./public/images/Banner.png" alt="" width=400px/>
 
 ## Description
 
